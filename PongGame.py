@@ -1,4 +1,4 @@
-# Tutorial by @TokyoEdTech from freeCodeCamp
+# Tutorial by @TokyoEdTech from freeCodeCamp. Create the classic Pong Game.
 
 import turtle
 
