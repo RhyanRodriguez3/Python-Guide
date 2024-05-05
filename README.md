@@ -13,6 +13,7 @@ Python Tutorial: https://www.w3schools.com/
 Beginner Python - https://www.youtube.com/@programmingwithmosh/playlists
 Python Projects - https://www.youtube.com/@coreyms/playlists
 Beginner Python Projects - https://www.youtube.com/@DaveOnData/playlists
+Python Documentation - https://wiki.python.org/moin/BeginnersGuide
 
 a.	BONUS Python:
 i.	pandas and numpy 
